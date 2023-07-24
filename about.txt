@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Cristina Assun&ccedil;&atilde;o</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<meta name="keywords" content="Cristina, Assun&ccedil;&atilde;o, artist, visual, media, performance, installation, curating, curator, lecturing, Goldsmiths, ESAD, FBAUP"> <!-- defines keywords for search engines-->
+
+<style>
+
+/* Center page content */
+.content {
+  max-width: 1000px;
+  margin: auto;
+  background: MistyRose;
+  padding: 10px;
+}
+/*Makes the columns horizontal*/
+* {box-sizing:border-box; background-color:MistyRose;}
+
+/*Body*/
+body {
+  font-family: Book Antiqua;
+  font-size: 17px;
+  background-color: Black;
+  line-height: 1,3;
+  text-align: left;
+  color: Black;  
+}
+
+
+/* Navigation Bar-Menu*/
+.navbar {
+  border: none;
+  background-color: inherit;
+  width: 100%;
+  background-color: MistyRose;
+  overflow: auto;
+}
+
+.navbar a {
+  float: left;
+  padding: 30px 30px 1px 30px;
+  color: Black;
+  text-decoration: none;
+  font-family: Lucida Sans Unicode;
+  font-size: 16px;
+  width: 33%; /* Three links of equal widths */
+  text-align: center;
+}
+
+.navbar a:hover {
+  color: MistyRose;
+}
+
+.navbar a.active {
+  background-color: MistyRose;
+  color: Black;
+  cursor: text;
+  float: right;
+}
+
+
+/*Columns*/
+.column {
+  float: left;
+  padding: 0px;
+}
+
+.left {
+  width: 50%;
+  padding: 40px 40px 10px 190px;
+}
+
+.right {
+  width: 50%;
+  padding: 40px 200px 10px 40px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 1050px) {
+  .column {
+    width: 100%;
+  }
+}
+
+/* Responsive layout - removes padding and margins when screen is below 978px */
+@media (max-width: 1050px) {
+    .column {
+      padding:20px;
+    }
+    .navbar a  {
+      padding:0px;
+    }
+}
+
+</style>
+</head>
+
+
+<!-- Body -->
+<body>
+
+
+<!-- Navigation Bar-Menu -->
+<div class="navbar">
+  <a href=“index.html" style="text-align:left; font-size:135%;">CRISTINA ASSUN&Ccedil;&Atilde;O</a> 
+  <a class="active" style="text-align:right;">About</a>
+</div>
+
+
+<!-- Columns -->
+
+<div class="row">
+
+  <!-- Column 1 -->
+  
+  <div class="column left" style="background-color:MistyRose;">
+    
+    	<p style="font-size:130%;">EDUCATION</p>
+
+  <p>
+  - Goldsmiths College, University of London, UK (2018-2019)<br>
+  MA Art & Politics (2:1)<br><br>
+
+  - FBAUP-School of Fine Arts, Oporto, Portugal (2014-2017)<br>	
+  MA Art and Design for Public Space (1st Class Honours)<br><br>
+
+  - ESAD.CR-School of Fine Arts and Design, Caldas da Rainha, Portugal (2005-2009)<br>
+  BA Fine Art and New Media<br><br>
+
+
+  - ESAD.CR-School of Fine Arts and Design, Caldas da Rainha, Portugal (2004-2005)<br>
+  BA Industrial Design (Attendance)<br><br>
+
+
+  - Artistic High School Ant&oacute;nio Arroio, Lisbon, Portugal (2000-2004)<br>
+  Arts & Crafts and New Media Course
+  </p>
+<br>
+
+
+<p style="font-size:130%;">SELECTED PROFESSIONAL EXPERIENCE</p>
+
+  <p style="font-size:130%;">Lecturing</p>
+    <p>
+    - Associate Lecturer, Fine Arts Studio (1st  Term), ESAD.CR - School of Fine Arts and Design, Caldas da Rainha, Portugal (2019-2020)
+    </p>
+
+  <p style="font-size:130%;">Visual Art Teacher</p>
+    <p>
+    - Primary Education, Leiria District, Portugal (2019-2020; 2017-2018; 2011-2012)<br>
+    - Camp monitor, Bissaya Barreto Foundation, Aveiro, Portugal (2009)
+    </p>
+
+  <p style="font-size:130%;">Production Assistant</p>
+    <p>
+    - <i>Quarantaine</i>, Georgina Starr, London, UK (2019)<br>
+    - <i>The Floating Piers</i>, Christo and Jeanne-Claude, Lago d&rsquo;Iseo, Italy (2016)<br>
+    - <i>Bergen Assembly</i>, 1<sup>st</sup> Art Biennial, Bergen, Norway (2013)
+    </p>
+
+  <p style="font-size:130%;">Museum Tour Guide</p>
+    <p>
+    - Pal&aacute;cio Nacional da Ajuda Museum, Lisbon, Portugal (2017-2018)
+    </p>
+
+ <p style="font-size:130%;">Director/Lead Curator</p>
+    <p>
+    - Casa Tit&atilde; Art Gallery & Shop, Lisbon, Portugal (2011-2013)
+    </p>
+<br>
+
+
+<p style="font-size:130%;">CURATORIAL PROJECTS</p>
+    <p>
+    - Incerta desambigua&ccedil;&atilde;o, Gallery Zaratan, Lisbon, Portugal, Co-curator with Jorge Maciel (19 October-18 November 2017)<br><br>
+    - Today as yesterday different then tomorrow, Espa&ccedil;o da Concas Museum, Caldas da Rainha, Portugal, Curator (11 March-8 April 2017)<br><br>
+    - Art+Feminism Wikipedia Edit-a-thon, Espa&ccedil;o da Concas Museum & online, Caldas da Rainha, Portugal, Curator (11-12 and 18-19 March 2017)<br><br>
+    - PRAGA-Itinerant and Alternative Art Festival, CAR-C&iacute;rculo de Arte e Recreio Museum and Association, Guimar&atilde;es, Portugal, Co-curator with Lu&iacute;s Carneiro, Tom&aacute;s Opini&atilde;o and Xana Ribeiro (3-5 April 2011)
+    </p>
+<br>
+
+
+<p style="font-size:130%;">EXHIBITIONS & PERFORMANCES</p>
+
+  <p style="font-size:130%;">Solo Presentations</p>
+
+    <p>
+    2019<br>
+      - <i>A Routine for my Skin</i>, London, UK<br>
+      - <i>To be a happening for each other</i>, Military Museum, Elvas, Portugal (curated by Um Coletivo<br>
+      - <i>Hold on a gesture</i>, Gallery 310, London, UK<br>
+
+    2014<br>
+      - <i>Plateau-Another Study for an artwork</i>, Hotel Madrid, Caldas da Rainha, Portugal (curated by Electricidade Est&eacute;tica)<br>
+      - <i>Fal&ecirc;ncia do Sistema</i>, Gallery NAU, Caldas da Rainha, Portugal<br>
+
+    2013<br>
+      - <i>Er det papeg&oslash;ye i Bergen?</i>, Gallery Bokboden, Bergen, Norway<br>
+
+    2012<br>
+      - <i>Board 4-Abstract Concepts</i>, Gallery Electricidade Est&eacute;tica, Caldas da Rainha, Portugal<br>
+      - <i>Quanto Pesa o Mundo?</i>, Don&#39;t Worry Babes, Bernardo Foundation (Van), Caldas da Rainha, Portugal<br>
+      - <i>No T&uacute;nel</i>, Bernardo Foundation, Caldas da Rainha, Portugal
+    </p>
+
+
+  <p style="font-size:130%;">Collaborative Projects</p>
+  
+    <p>
+    2014<br>
+      - <i>New Year&rsquo;s Eve</i>, Lagoa de &Oacute;bidos, Nadadouro, Portugal (public installation in collaboration with Bruno Lavos Marques, Carlos Rodrigues and Jorge Maciel)<br>
+      - <i>N&atilde;o h&aacute; c&aacute; p&atilde;o para malucos</i>, noc noc &Oacute; da Casa Festival, Guimar&atilde;es, Portugal (public installation in collaboration with Jorge Maciel)<br>
+
+    2012<br>
+      - <i>Untitled</i>, Centro da Juventude, Caldas da Rainha, Portugal (stage design for Lavoisier&rsquo;s Concert in collaboration with Jorge Maciel)<br>
+
+    2011<br>
+      - <i>Bedside</i>, Caldas da Rainha, Portugal (in collaboration with In&ecirc;s Prats)<br>
+      - <i>Canibalismo Aplicado</i>, Junho das Artes, Obidos, Portugal (performance with Von Calhau and other participants)<br>
+
+    2009-2011<br>
+      - <i>Salom&eacute;, Judite e Dalila</i>, several locations (Dj performance in collaboration with Susana Valadas and Xana Ribeiro)<br>
+
+    2009<br>
+      - <i>O Agitador (after George Grosz)</i>, ESAD.CR-School of Fine Arts and Design, Caldas da Rainha, Portugal (performance in collaboration with Lu&iacute;s Carneiro)<br>
+      - <i>2 Acts</i>, Imaginarius Festival, Santa Maria da Feira, Portugal (music performance in collaboration with NOME)<br>
+
+    2008<br>
+      - <i>Gastronomic Concert</i>, Uma S&oacute; Voz Festival, Caldas da Rainha, Portugal (music performance in collaboration with NOME)<br>
+
+    2007<br>
+      - <i>Untitled</i>, Caldas Late Night, Caldas da Rainha, Portugal (performance/installation in collaboration with Elizabete Francisca Santos)<br>
+
+    2003<br>
+      - <i>&Agrave; Flor do Caos-Finita Terra Infinita</i>, Teatro Cam&otilde;es and F&oacute;rum Lisboa, Lisbon, Portugal (performers and stage design for the play in collaboration with Ant&oacute;nio Arroio School students)
+    </p>
+
+
+  <p style="font-size:130%;">Group Presentations</p>
+
+    <p>
+    2019<br>
+      - <i>I take care of things</i>, RAW Labs, London, UK (curated by Ariane Kupferman-Sutthavong)<br>
+      - <i>Soil From Nowhere</i>, St, James Hatcham Building, London, UK<br>
+
+  
+    2018<br>
+      - <i>Apresenta&ccedil;&atilde;o M&uacute;ltiplo</i>, Gallery Zaratan, Lisbon, Portugal<br>
+      - <i>Ah! Afinal tu trabalhas</i>, Ciclo da Primavera, Caldas da Rainha, Portugal (curated by Eletricidade Est&eacute;tica)<br>
+
+    2017<br>
+      - <i>Untitled (one image)</i>, Caleidosc&oacute;pio, Gallery Maus H&aacute;bitos, Oporto, Portugal (curated by Lu&iacute;sa Abreu)<br>
+      - <i>Arquivo para</i>, Lethes Art, Museum Torre da Cadeia Velha, Ponte de Lima, Portugal (curated by Isabel Patim) (catalogue) <br>
+      - <i>FOR &#39;SAIL&#39;</i>, Slow is The New Fast, Museum FBAUP-School of Fine Arts, Oporto, Portugal (curated by Gabriela Vaz-Pinheiro)<br>
+      - <i>A conquista do espa&ccedil;o... p&uacute;blico! #4</i>, Noites da Lua Azul, Caldas da Rainha, Portugal (curated by - Eletricidade Est&eacute;tica)<br>
+      - <i>Ideia No. 2</i>, Cornea Attack, Caldas da Rainha, Portugal (curated by Electricidade Est&eacute;tica)<br>
+
+    2016<br>
+      - <i>(re)furnishing the city</i>, Porto Lazer/EDP, Rua da Cedofeita, Oporto, Portugal<br>
+      - <i>Retrato-60X44.5</i>, Museum Casa das Artes M&aacute;rio Elias, M&eacute;rtola, Portugal<br>
+
+    2015<br>
+      - <i>Written Memory</i>, Berliner Herbstsalon at Palais am Festungsgraben, Berlin, Germany (curated by Anonymous Stateless Immigrants-ASI)<br>
+
+    2014<br>
+      - Our thoughts are forming the world, A Porta Festival, Leiria, Portugal (curated by Lara Portela)<br>
+  
+    2013<br>
+      - <i>Wall</i>, Line Art Fest, Bergen, Norway (curated by Jorgelina Mansini)<br>
+
+    2012<br>
+      - <i>De Comboio para a Sib&eacute;ria</i>, Red Bull House of Art, Lisbon, Portugal (curated by Jorge Maciel)<br>
+
+    2011<br>
+      - <i>Esta casa tem tecto mas podia n&atilde;o ter</i>, Experimental Art Biennial Rabiscuits, Alcoba&ccedil;a, Portugal
+    </p>
+<br>
+
+
+
+<p style="font-size:130%;">PUBLICATIONS</p>
+
+  <p style="font-size:130%;">Critical Writings</p>
+
+    <p>
+    - &ldquo;The commonplace. Between objects and ideas that express in contemporary art the public realm and (re)call a circularity of artist, work, citizen and place,&rdquo; Samuel Silva, and Gabriela Vaz-Pinheiro, eds. (Oporto: FBAUP-School of Fine Arts, 2018)
+    </p>
+
+
+  <p style="font-size:130%;">Artzines</p>
+
+    <p>
+    - &ldquo;Circular in the commonplace. Between objects and ideas that express in contemporary art the public realm and (re)call a circularity of artist, work, citizen and place,&rdquo; Samuel Silva, and Gabriela Vaz-Pinheiro, eds. (Oporto: FBAUP-School of Fine Arts, 2018)<br>
+
+    - &ldquo;A Natureza n&atilde;o tem Limites,&rdquo; Gon&ccedil;alo Belo, and Patr&iacute;cia Faustino, eds. (Caldas da Rainha: Borealis #4, 2012)<br>
+
+
+    - &ldquo;PRAGA-Itinerant and Alternative Art Festival 3<sup>rd</sup> edition,&rdquo; Tiago, ed. (Guimar&atilde;es: CAR-C&iacute;rculo de Arte e Recreio Museum and Association, 2011)<br>
+
+    - &ldquo;Ora porra!,&rdquo; Patr&iacute;cia Relvas, ed. (Caldas da Rainha: Maga-Visual Art Exhibition, 2010)<br>
+
+    - &ldquo;PRAGA-Itinerant and Alternative Art Festival 2<sup>nd</sup> edition,&rdquo; Tiago, ed. (&Eacute;vora: Sociedade Harmonia Eborense, 2008)
+    </p>
+
+
+  <p style="font-size:130%;">Exhibitions Catalogues</p>
+
+    <p>
+    - Isabel Patim, &ldquo;Arquivo para,&rdquo; <i>Memories and Identit(ies)</i>, Ponte de Lima: Lethes Art (July 2017)
+    </p>
+
+
+  <p style="font-size:130%;">Conference Presentations & Papers</p>
+
+    <p>
+    - &ldquo;Tool to act? - One question to Balibar,&rdquo; <i>Workshop: Translation, Hospitality and Equal Liberty</i>, &Eacute;tienne Balibar and Soraya Nour Sckell, Cosmopolitanism Without Borders, NOVA University, Lisbon, Portugal, 3 March 2020<br>
+    - &ldquo;The commonplace. Between objects and ideas that express in contemporary art the public realm and (re)call a circularity of artist, work, citizen and place,&rdquo; Gabriela Vaz-Pinheiro, Jorge J. Marques and Samuel Silva, Slow is The New Fast, FBAUP-School of Fine Arts, Oporto, Portugal, 2 October 2017<br>
+    - &ldquo;The Common Place,&rdquo; <i>Arts II</i>, IJUP-Young Researchers Encounter, Medicine Research Centre, Oporto University, Oporto, Portugal, 8 February 2017
+    </p>
+
+
+  <p style="font-size:130%;">Public Programmes</p>
+
+    <p>
+    - <i>Art+Feminism Wikipedia Edit-a-thon</i>, Espa&ccedil;o da Concas Museum & online, Caldas da Rainha, Portugal, Curator, 11-12 and 18-19 March 2017
+    </p>
+<br>
+
+
+
+<p style="font-size:130%;">ARTIST RESIDENCIES</p>
+
+  <p>
+  - A Salto, UM COLETIVO, Elvas, Portugal (17 August-1 September 2019)<br>
+  - Artist Studio, Arts Centre, Council of Caldas da Rainha, Portugal (1 June 2016-31 May 2018)<br>
+  - CENTA, Vila Velha de R&oacute;d&atilde;o, Portugal, (1-31 August 2007)
+  </p>
+<br>
+
+
+
+<p style="font-size:130%;">GRANTS, AWARDS & SCHOLARSHIPS</p>
+
+  <p>
+  - Visual Art Support Grant COVID-19, Calouste Gulbenkian Foundation, Lisbon, Portugal (2020)<br>
+  - Entrance Scholarship, CalArts - California Institute of Arts, Valencia, CA, USA (2018)<br>
+  - Visual Art Grant, Calouste Gulbenkian Foundation, Lisbon, Portugal (2017)<br>
+  - Grant, Wikimedia Foundation, San Francisco, USA (2017)<br>
+  - Special mention, Porto Lazer/EDP, Oporto, Portugal (2016)<br>
+  - Special mention, Anonymous Stateless Immigrants, Berlin, Germany (2015)<br>
+  - Young Painter of the Year Award, Rotary Club, Lisbon, Portugal (2003)<br>
+  - Participation, International Physics Olympiad, Lisbon, Portugal (2002)		
+  </p>
+<br>
+
+
+
+<p style="font-size:130%;">TECHNICAL EXPERTISE</p>
+
+  <p style="font-size:130%;">Courses</p>
+
+    <p>
+    - Doing the thinking. Thinking the doing with Jo&atilde;o Fiadeiro and Roman Big&eacute;, Culturgest, Lisbon, Portugal (2019)<br>
+
+    - German Language Course (A1), CENCAL, Caldas da Rainha, Portugal (2018)<br>
+
+    - AND Lab Summer School with Fernanda Eug&eacute;nio - Research Centre for Art-thinking&Politics of Togetherness, P&oacute;lo das Gaivotas, Lisbon, Portugal (2018)<br>
+
+    - Adobe Photoshop & Image Post-production, CENCAL, Caldas da Rainha, Portugal (2017)<br>
+
+    - &lsquo;The &ldquo;Untitled&rdquo; Workshop&rsquo; with Barbara Holub, Bodied Spaces-Performance Festival, Oporto, Portugal (2016)<br>
+
+    - CCP Pedagogic Teacher Training, Significado, Consultoria, Forma&ccedil;&atilde;o e Inform&aacute;tica, Lda., Lisbon, Portugal (2012)<br>
+
+    - Circuit Bending with Von Calhau-Canibalismo Aplicado, Junho das Artes, Obidos, Portugal (2011)<br>
+
+    - Contemporary Dance with Joana Von Mayer Trindade, F&oacute;rum Dan&ccedil;a, Lisbon, Portugal (2006)<br>
+
+    - Improvisation and Composition with Bruno Cochat, Dance Vocacional School, Caldas da Rainha, Portugal (2005)<br>
+
+    - Black and white analog photography, ARCO, Lisbon, Portugal (2004)
+    </p>
+
+
+  <p style="font-size:130%;">IT</p>
+
+    <p>
+    - Office: Word, Excel, PowerPoint (Advanced)<br>
+    - iWork: Pages, Numbers, Keynote (Advanced)<br>
+    - Adobe: Photoshop, InDesign, Illustrator, Premiere Pro (Advanced) (Certificate)<br>
+    - Final Cut Pro (Advanced)<br>
+    - Web: HTML, CSS, Java Script (Medium)<br>
+    - Social Media: Facebook, Instagram (Advanced)
+    </p>
+
+
+  <p style="font-size:130%;">Languages</p>
+
+    <p>
+    - Portuguese (Native speaker)<br>
+    - English (Proficient user) (IELTS Certificate Level C1)<br>
+    - Spanish (Proficient user)<br>
+    - German (Basic user) (Certificate Level A1)<br>
+    - French (Basic user)<br>
+    - Norwegian (Basic user)
+    </p>
+
+  <br>
+
+  <p>Full expertise skills available upon request.</p>
+
+  </div>  
+  
+
+
+<!-- Column 2 -->
+
+  <div class="column right" style="background-color:MistyRose;">
+
+	<br>
+
+	<p>cristina.assuncao@me.com</p>
+
+ 	<p>Visual artist, performer and researcher.<br>Born in Lisbon, Portugal, lives in London, UK.</p>
+	<p style="text-align:justify;"><!-- about the artistic practice in general-->Cristina Assun&ccedil;&atilde;o is a multi-disciplinary artist. Her work brings attention to interrelations inner affects and its potentialities to act. In site-specific assemblages conducted though careful listening and observation she sets up and nurtures places for questioning and for dialogue.<br>
+
+	<p style="text-align:justify;"><!-- about performing and dance -->Alongside such practice she has been evolving on dance without master, hinged as an ideal laboratory for interrelations: between objects and ideas that express contemporary art in the public realm and (re)call a circularity of artist, work, citizen and place.&quot;.</p>
+
+	<p style="text-align:justify;"><!-- about acting as a curator, producer and educator: what is my vision? -->In 2017 she curated <i>Hoje como ontem diferente de amanh&atilde;</i>, an exhibition and series of activities within the Art+Feminism Edit-a-thon project. In the same year she co-curated the project <i>Incerta desambigua&ccedil;&atilde;o</i> at Zaratan, Lisbon.
+
+In 2016 she took part on the production of Christo and Jeanne-Claude&#39;s <i>The Floating Piers</i> in Lago d&#39;Iseo and in 2019 she assisted the production of Georgina Starr&#39;s <i>Quarantaine</i>.
+</p>
+	
+
+    
+  </div>
+
+</div>
+
+<!--style="background-color:black;color:white"-->
+
+</body>
+</html>

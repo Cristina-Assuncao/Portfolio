@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Cristina Assun&ccedil;&atilde;o</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<meta name="keywords" content="Cristina, Assun&ccedil;&atilde;o, artist, installation, Goldsmiths, ESAD, FBAUP"> <!-- defines keywords for search engines-->
+
+<style>
+
+/* Center page content */
+.content {
+  max-width: 1000px;
+  margin: auto;
+  background: #f5d0b3;
+  padding: 10px;
+}
+
+/* Button for index*/
+a {
+  border: none;
+  background-color: inherit;
+  padding: 40px 30px 1px 1px;
+  font-size: 14px;
+  cursor: pointer;
+  display: inline-block;
+  float: right;
+  text-decoration: none;
+}
+
+a:hover {
+	color: #ffe8cc;
+}
+
+.button {color: Black;}
+
+/* Video responsive to screen sizes */
+.video-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.video-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
+/* Center images*/
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+  max-width: 100%;
+  height: auto;
+}
+
+</style>
+</head>
+
+<body style="font-size:110%; font-family:Arial; background-color:#f5d0b3; line-height:1.6; text-align:left; color: Black">
+
+<div class="content">
+
+<a class="button" href="index.html">&#9664;</a>
+
+<h1 style="font-family:Arial;">Ser acontecimento uns para os outros</h1>
+
+<!--<div class="video-responsive">
+   <iframe width="1024" height="640" src="https://player.vimeo.com/video/430505278?autoplay=1" frameborder="0" allowfullscreen></iframe>
+</div>-->
+
+<br>
+<p style="font-size:80%; text-align:center">Ser acontecimento uns para os outros<br>[To be a happening for each other]<br>Full HD film, 4&#39;26&#34;</p>
+
+<img src=".jpg" alt="" style="width:200px; height:200px;"><br>
+<img src=".jpg" alt="" style="width:128px; height:128px;"><br>
+<img src=".jpg" alt="" style="width:128px; height:128px;"><br>
+
+<p style="font-size:80%; text-align:center">Ser acontecimento uns para os outros<br>[To be a happening for each other]<br>Installation and performance views<br>Military Museum of Elvas, 2019</p>
+
+
+
+<p style="font-size:90%"> To be a happening for each other is a creation mediated simultaneously by research and composition. It bears a double question, what moves you and what moves the world, and is forged from the specificity of the found answers. It is articulated as a catalyser of powers in the everyday’s invention and its prolongation beyond memory, where thought and gesture inform itself mutually. The gesture, as the movement that the arm produces for the hand to outreach, and the thought, sometimes oneiric others utopian that informs the gesture, are encounter between wonder and poetry.
+<br>
+<br>
+lead me towards a deep interrogation of the concepts of apathy and engagement in Art and Politics
+<br>
+<br>
+Was showned in premiere at A Salto 2019,
+<br>
+</p>
+
+
+</div>
+
+</body>
+</html>
+
+

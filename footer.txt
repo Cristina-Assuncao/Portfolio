@@ -1,0 +1,52 @@
+
+/* Footer */
+footer {
+  background-color: #808080;
+  padding: 100px;
+  color: White;
+  font-size: 80%;
+}
+.footer_outer {
+  width: 980px;
+  border: none;
+}
+.footer_inner_left {
+  width: 49%;
+  float: left;
+  display:inline;
+  text-align: left;
+}
+.footer_inner_right {
+  width: 49%;
+  float: right;
+  display:inline;
+  text-align: right;
+}
+
+<!-- Footer -->
+
+<footer>
+  <div class="footer_outer">
+    <div class="footer_inner_left">&copy; 2021 Cristina Assun&ccedil;&atilde;o</div>
+    <div class="footer_inner_right"><a href="privacy-policy.html">Privacy Policy</a></div>
+  </div>
+</footer>
+
+
+_________other try:
+
+/* Footer */
+.footer {
+  border: #808080;
+}
+#footer-content {
+  background: Blue;
+  color: White;
+}
+
+
+<div class="footer">
+<div id="footer-content">
+	<p>&copy; Cristina Assun&ccedil;&atilde;o</p>
+</div>
+</div>

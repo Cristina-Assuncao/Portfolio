@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Cristina Assun&ccedil;&atilde;o</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<meta name="keywords" content="Cristina, Assun&ccedil;&atilde;o, artist, visual, media, performance, installation, curating, curator, lecturing, Goldsmiths, ESAD, FBAUP"> <!-- defines keywords for search engines-->
+
+<style>
+
+/* Center page content */
+.content {
+  max-width: 1000px;
+  margin: auto;
+  background: black;
+  padding: 10px;
+}
+
+
+/*Makes the columns horizontal*/
+* {box-sizing: border-box; background-color:Black;}
+
+/*Body*/
+body {
+  font-family: Book Antiqua;
+  font-size: 17px;
+  background-color: Black;
+  line-height: 1,3;
+  text-align: left;
+  color: White;
+}
+
+
+/* Navigation Bar-Menu*/
+.navbar {
+  border: none;
+  background-color: inherit;
+  width: 100%;
+  background-color: Black;
+  overflow: auto;
+}
+
+.navbar a {
+  float: left;
+  padding: 30px 30px 1px 30px;
+  color: white;
+  text-decoration: none;
+  font-family: Lucida Sans Unicode;
+  font-size: 16px;
+  width: 33%; /* Three links of equal widths */
+  text-align: center;
+}
+
+.navbar a:hover {
+  color: Black;
+}
+
+.navbar a.active {
+  background-color: Black;
+  color: White;
+  cursor: text;
+}
+
+/* Title*/
+header {
+  font-family: Book Antiqua;
+  font-size: 350%;
+  background-color: Black;
+  line-height: 1,3;
+  text-align: center;
+  color: White;
+  padding: 30px
+}
+
+/* Relative to the place of the video */
+@media screen and (max-width: 500px) {
+  .navbar a {
+    float: none;
+    display: block;
+    width: 100%;
+    text-align: right;
+  }
+}
+
+/* Video responsive to screen sizes */
+.video-responsive {
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.video-responsive iframe {
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
+/* Text */
+article {
+  padding: 60px 240px 30px 240px;
+}
+
+/* Responsive layout - removes padding and margins when screen is below 978px */
+@media (max-width: 978px) {
+    article {
+      padding:20px;
+    }
+    .navbar a  {
+      padding:0px;
+    }
+}
+
+</style>
+</head>
+
+<!-- Body -->
+<body>
+
+
+<!-- Navigation Bar-Menu -->
+<div class="navbar">
+  <a href="index.html" style="text-align:left; font-size:135%;">CRISTINA ASSUN&Ccedil;&Atilde;O</a> 
+  <a class="active" href="index.html" style="text-align:center; color:Black;">------</a>  
+  <a href="index.html" style="text-align:right;">Works</a> 
+</div>
+
+<!-- Title -->
+<header>Idea No. 2</header>
+
+<!-- Video -->
+<div class="video-responsive">
+   <iframe width="1024" height="640" src="https://player.vimeo.com/video/430505278?autoplay=1" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<!-- Text -->
+<article>
+
+<p style="font-size:90%;">HD Video 10'</p>
+<br>
+<p>The work explores relations of power in a world...
+A word respecting the author's method of quoting may not be out of place. In the majority of cases, the quotations serve, in the usual way, as documentary evidence in support of assertions made in the text. But in many instances, passages from economic writers are quoted in order to indicate when, where, and by whom a certain proposition was for the first time clearly enunciated. This is done in cases where the proposition quoted is of importance as being a more or less adequate expression of the conditions of social production and exchange prevalent at the time, and quite irrespective of Marx's recognition, or otherwise, of its general validity. These quotations, therefore, supplement the text by a running commentary taken from the history of the science.
+Our translation comprises the first book of the work only. But this first book is in a great measure a whole in itself, and has for twenty years ranked as an independent work. The second book, edited in German by me, in 1885, is decidedly incomplete without the third, which cannot be published before the end of 1887. When Book III. has been brought out in the original German, it will then be soon enough to think about preparing an English edition of both. </p>
+<p>It was first exhibited in a shop's front window...</p>
+</article>
+
+
+</body>
+</html>

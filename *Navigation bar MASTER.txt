@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {box-sizing: border-box}
+body {font-family: Avenir Next}
+
+.navbar {
+  width: 100%;
+  background-color: Black;
+  overflow: auto;
+}
+
+.navbar a {
+  float: left;
+  padding: 12px;
+  color: white;
+  text-decoration: none;
+  font-size: 17px;
+  width: 33%; /* Four links of equal widths */
+  text-align: center;
+}
+
+.navbar a:hover {
+  color: Black;
+}
+
+.navbar a.active {
+  background-color: Black;
+  color: White;
+  cursor: text;
+}
+
+@media screen and (max-width: 500px) {
+  .navbar a {
+    float: none;
+    display: block;
+    width: 100%;
+    text-align: right;
+  }
+}
+</style>
+<body>
+
+<h2>Responsive Navbar with Links of Same Width</h2>
+<p>Try to resize the browser window to see the responsive effect.</p>
+
+
+
+<div class="navbar">
+  <a href="#" style="text-align:left; font-family:Avenir; font-size:130%;">CRISTINA ASSUN&Ccedil;&Atilde;O</a> 
+  <a class="active" style="text-align:center; font-size:300%;"><h2>Idea No. 2</h2></a> 
+  <a href="#" style="text-align:right;">Works</a> 
+</div>
+
+</body>
+</html> 
+

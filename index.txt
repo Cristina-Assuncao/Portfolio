@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <title>Cristina Assun&ccedil;&atilde;o</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<meta name="keywords" content="Cristina, Assun&ccedil;&atilde;o, Assuncao, artist, visual, media, performance, installation, curating, curator, lecturing, lecturer, Goldsmiths, ESAD, FBAUP"> <!-- defines keywords for search engines-->
+
+<style>
+
+
+/* Center page content - do I need this now? - NO */
+/*.content {
+  max-width: 1000px;
+  margin: auto;
+  background: WhiteSmoke;
+  padding: 10px;
+}*/
+
+/* To align after header and top buttons - do I need this now? - NO */
+/*.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}*/
+
+
+/* Body - do I need this now? YES - it is giving the directions for the all page */
+body {
+  font-family: Lucida Sans Unicode;
+  font-size: 17px;
+  background-color: WhiteSmoke;
+  line-height: 1,3;
+  text-align: center;
+  color: Black;
+}
+
+/* Header */
+.header {
+  padding: 60px 30px 30px 30px;
+  border: none;
+  background-color: inherit;
+  width: 100%;
+  overflow: auto;
+}
+
+/* Navigation Bar-Menu */
+/*.navbar {
+  border: none;
+  background-color: inherit;
+  width: 100%;
+  float: center;
+  overflow: auto;
+}*/
+
+/*.navbar a {
+  float: center;
+  display: block;
+  padding: 30px 30px 30px 30px;
+  color: Black;
+  text-decoration: none;
+  font-family: Lucida Sans Unicode;
+  font-size: 16px;
+  text-align: right;
+}*/
+
+/*.navbar a.center {
+  float: center;
+}
+
+.navbar a:hover {
+  color: Silver;
+}*/
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+  border: none; 
+}
+
+
+/* Buttons on images */
+a {
+  border: none;
+  background-color: inherit;
+  color: black;
+  cursor: pointer;
+  display: inline-block;
+  text-decoration:none;
+}
+
+a:hover {
+    color: Silver;
+}
+
+
+/*@media (max-width: 1000px) {
+    .header  {
+      padding:10px;
+    }
+}*/
+
+
+</style>
+</head>
+
+
+
+<!-- Body -->
+
+<body>
+
+
+<!-- Header -->
+
+<div class="header" style="font-size:260%;">CRISTINA ASSUN&Ccedil;&Atilde;O</div>
+
+
+<!-- Enter -->
+
+<div class="center">
+  <a href="enter.html" style="font-size:90%;">ENTER</a>
+</div>
+
+
+</body>
+</html>
